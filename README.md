@@ -20,7 +20,7 @@ The dashboard is built as a 5-page interactive Power BI report (plus a landing p
 ## 🗂️ Data Source
 
 - **Source:** UNRWA — Gaza Supply Dashboard, via [Humanitarian Data Exchange (HDX)](https://data.humdata.org)
--  ![File:](commodities-received-13.csv)
+-  ![File:](./data/commodities-received-13.csv)
 - **Records:** 50,059
 - **Period covered:** Oct 21, 2023 – Jan 16, 2025
 - **Category breakdown:**
