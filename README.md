@@ -66,11 +66,11 @@ SQL scripts are available in [`/sql`](./sql):
 
 | Overview | Food Items |
 |---|---|
-| ![Overview](screenshots/Overview.png) | ![Food](screenshots/Food Items.png) |
+| ![Overview](screenshots/Overview.png) | ![Food](screenshots/Food-Items.png) |
 
 | Non-Food Items | Medical Supplies |
 |---|---|
-| ![NFI](screenshots/Non-Food Items.png) | ![Medical](screenshots/Medical Suppliers.png) |
+| ![NFI](screenshots/Non-Food-Items.png) | ![Medical](screenshots/Medical-Suppliers.png) |
 
 | Comparison |
 |---|
